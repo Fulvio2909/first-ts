@@ -20,7 +20,6 @@
 
 // console.log(role);
 
-
 /*
 Esercizio 1: 
 Creare un nuovo utente (funzione). l'utente ha username, password, status, permissions
